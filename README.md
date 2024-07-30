@@ -28,7 +28,7 @@ Um aplicativo capaz de rastrear encomendas dos correios e armazená-las localmen
   - Endpoint: `https://api.linketrack.com/track/json?user=danielmarciano.ti@belenus.com.br&token=5218641b6e7d8a623b67bc22e8cf1d4e24d99599386e80296fd0d0f962b25692&codigo=PW377894918BR` (Substitua "PW377894918BR" pelo código desejado).
 
 - **Repositório**
-  - Faça um fork deste repositório [link do repositório].
+  - Faça um fork deste repositório.
   - Quando concluir, crie um pull request para avaliação.
 
 #### Prazo
